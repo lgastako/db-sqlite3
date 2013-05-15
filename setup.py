@@ -7,7 +7,7 @@ from setuptools import find_packages
 
 if __name__ == "__main__":
     setup(name="db-sqlite3",
-          version="0.0.8",
+          version="0.0.1",
           description="sqlite3 driver for db",
           author="John Evans",
           author_email="lgastako@gmail.com",
