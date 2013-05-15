@@ -13,5 +13,5 @@ if __name__ == "__main__":
           author_email="lgastako@gmail.com",
           url="https://github.com/lgastako/db-sqlite3",
           install_requires=["db"],
-          packages=find_packages(),
+          py_modules=["db_sqlite3"],
           provides=["db_sqlite3"])
